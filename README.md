@@ -23,13 +23,13 @@ Grab the latest files from the [repo](https://github.com/anotherphonker/NotThatS
 
 - **`NotThatSimple.exe`** — recommended. Just run it, or create a shortcut and pin it to your taskbar/Start menu.
 - **`NotThatSimple.bat`** — the raw script, in case you want to inspect or modify it before running.
-- **`NOT THAT SIMP.ico`** — icon used for the shortcut.
+- **`Not That Simple.ico`** — icon used for the shortcut.
 
 ### Setup
 
 1. Download `NotThatSimple.exe` (and the `.ico` if you want the custom icon).
 2. Make sure SimpMusic is installed via MSIX at the default path. If your install path differs, edit the `EXE` variable in the `.bat` source and recompile, or just edit-and-recompile with your own path.
-3. Create a shortcut to `NotThatSimple.exe`, set its icon to `NOT THAT SIMP.ico` if desired.
+3. Create a shortcut to `NotThatSimple.exe`, set its icon to `Not That Simple.ico` if desired.
 4. Pin the shortcut to your taskbar/Start menu and use it instead of launching SimpMusic directly.
 
 ## Status
