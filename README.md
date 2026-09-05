@@ -1,3 +1,4 @@
+![NotThatSimple Icon](https://raw.githubusercontent.com/anotherphonker/NotThatSimple/refs/heads/main/Not%20That%20Simple.ico)
 # NotThatSimple
 
 A basic launcher for SimpMusic that fixes the broken Compose window bug on first launch.
